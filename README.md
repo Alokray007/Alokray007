@@ -6,6 +6,8 @@
 - 💬 Ask me about Civil Engineering! While I don't work in the field anymore, I still love everything I learned about it!
 - 😄 Pronouns: He/His
 - 🎸 Fun Fact: I love to travel new Places and love to meet with new Peoples.
+- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="aloksuman010" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/aloksuman010?trk=profile-badge">Alok Suman</a></div>
+              
 
 
 ## My Skills
