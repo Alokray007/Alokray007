@@ -9,7 +9,7 @@
               
 
 ## My Skills
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,redux,tailwind,sass,mongodb,express,nodejs,git,vscode,postman,&perline=10&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,redux,tailwind,sass,mongodb,express,nodejs,git,vscode,postman,&perline=15&theme=light)](https://skills.thijs.gg)
 
 <br />
 
