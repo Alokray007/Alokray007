@@ -9,7 +9,7 @@
               
 
 ## My Skills
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,tailwind,mongodb,express,react,nodejs,redux,git,vscode,postman,&perline=10&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,redux,tailwind,sass,mongodb,express,nodejs,git,vscode,postman,&perline=10&theme=light)](https://skills.thijs.gg)
 
 <br />
 
@@ -17,4 +17,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Alokray007&theme=transparent)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alokray007&layout=compact&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alokray007&layout=compact&count_private=true&theme=transparent&exclude_repo=Alokray007.git)](https://github.com/anuraghazra/github-readme-stats)
